@@ -37,6 +37,7 @@ Vancouver, Canada
 Toronto, Canada
 
 Tokyo, Japan
+London, portfolio
 
 Copenhagen, Denmark
 
@@ -137,4 +138,5 @@ San Antonio, Texas
 Ciudad de Guatemala, Guatemala
 
 Seoul, SouthKorea
-Abeokuta , Nigeria
+
+ 
